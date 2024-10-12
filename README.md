@@ -1,4 +1,5 @@
 # Membuat Perencanaan Proyek untuk Manajer Pengembangan TIK
+"Gimana sih biar proyek bisa dikelola dengan baik? Caranya tuh dengan ngoptimalin manajemen proyek, alias cara ngatur proyek biar lebih efektif dan efisien. Kuncinya ada di perencanaan yang matang. Makin bagus rencana, makin besar juga peluang buat capai tujuan proyek. Proyek itu sendiri adalah kumpulan kegiatan yang unik, melibatkan banyak orang (stakeholder), ada batas waktu, dan punya indikator kesuksesan yang jelas."
 ## 1. Pengenalan Manajemen Proyek
 1.1. Pentingnya Perencanaan Proyek
 
